@@ -2,8 +2,12 @@
 Bienvenue sur le site PajiShop ! 
 Voici quelques infos utile :
 
-
-
+  Challenge :
+    
+    Faire le projet en découvrant laravel le jeudi matin. Ayant déja utilisé d'autres framework (symphony...), je ne voyais
+    pas l'utilité d'en apprendre un autre, voilà pourquoi j'ai essayé de faire le projet sans lire une note de laravel avant
+    le début de l'épreuve.
+    
   Connexion :
 
     Log : cared@2016.fr
