@@ -1,11 +1,15 @@
 
-readme
-
-Log : cared@2016.fr
-Mdp: cared2016
-
 Bienvenue sur le site PajiShop ! 
 Voici quelques infos utile :
+
+
+
+  Connexion :
+
+    Log : cared@2016.fr
+
+    Mdp: cared2016
+
 
   L’équipe design a choisi un style pur et simpliste, afin de donner une touche moderne à l’image de la société. 
   
