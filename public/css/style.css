@@ -1,0 +1,41 @@
+.navibar{
+	background: linear-gradient(360deg, #ab47bc, #8e24aa);
+	box-shadow: 0 12px 20px -10px rgba(156, 39, 176, 0.28), 0 4px 20px 0px rgba(0, 0, 0, 0.12), 0 7px 8px -5px rgba(156, 39, 176, 0.2);
+}
+
+
+.productClass{
+	min-height: 50px;
+	max-width: 80%; 
+	height: 100px;
+	overflow: hidden;
+	margin: 20px;
+	
+}
+.productClass img{
+	height: 100%;
+	width: 80%;
+}
+.orange{
+	background-color: white;
+  	min-height: 50px;
+  	margin: 15px;
+  	vertical-align: middle;
+  	padding: 15px;
+  	box-shadow: 0 0 20px -10px rgba(255, 152, 0, 0.28), 0 4px 20px 0px rgba(0, 0, 0, 0.12), 0 7px 8px -5px rgba(255, 152, 0, 0.2);
+
+}
+#content{
+	max-width: 50%;
+}
+#del{
+	width: 30px;
+	height: 30px;
+	float: right;
+	color: white;
+	border-radius: 80px;
+	vertical-align: middle;
+	background-color: white;
+	background: linear-gradient(0deg, #ffa726, #fb8c00);
+  	box-shadow: 0 0 20px -10px rgba(255, 152, 0, 0.28), 0 4px 20px 0px rgba(0, 0, 0, 0.12), 0 7px 8px -5px rgba(255, 152, 0, 0.2);
+}
