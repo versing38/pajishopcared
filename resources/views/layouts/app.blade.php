@@ -78,8 +78,15 @@
 
         @yield('content')
     </div>
+    <div id="footer" style="text-align: center; position: absolute; bottom: 5px; width: 100vw;">
+    
+    </div>
+
 
     <!-- Scripts -->
     <script src="/js/app.js"></script>
+    <script type="text/javascript">
+        $('#footer').html('Created by Jimmy');
+    </script>
 </body>
 </html>
